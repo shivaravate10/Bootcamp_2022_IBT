@@ -2,7 +2,7 @@
 
 
 #Run command more /proc/cpuinfo and explain the following terms: processor and cores. Use the command lscpu to verify your definitions.
-~ more /cpuinfo/cpuinfo
+$ more /cpuinfo/cpuinfo
 
 
 
